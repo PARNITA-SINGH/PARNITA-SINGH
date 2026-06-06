@@ -1,6 +1,3 @@
-# Cats-Sliding
-🐾 you found my secret lair
-
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d3b511e5-1bb1-4aa1-8d13-d8f3e5fe33bf"
