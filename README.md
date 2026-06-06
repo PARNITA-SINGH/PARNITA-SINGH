@@ -37,11 +37,10 @@
 - Data Structures & Algorithms
 
 ## BEYOND CODE
-
-- SheFi Scholar
-- Open Source Contributor
-- Research Enthusiast
-- Lifelong Learner
+- 📜 SheFi Scholar
+- 🔬 love going down research rabbit holes
+- 🤞 Open Source Contributor
+- 😙 A Learner
 
 ## SOCIALS 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parnita-s-901a32378/)
