@@ -10,11 +10,11 @@
   <em>second-year undergrad · code explorer · poet in disguise</em>
 </div>
 
-## ABOUT ME 
+## 🐈‍⬛ ABOUT ME 
 - 2ND Year Undergraduate in ECE-AI
 - Coding and Learning AI-Ml in Python Since 9th Grade
 
-## AREAS OF INTEREST
+## 🧠 AREAS OF INTEREST
 
 - Artificial Intelligence & Machine Learning
 - Generative AI Applications
@@ -23,7 +23,7 @@
 - Full-Stack Development
 - Open Source Software
 
-## TECH STACK
+## 🛠️ TECH STACK
 
 **Languages**
 - Python
@@ -36,17 +36,18 @@
 - AI-powered Full-Stack Development
 - Data Structures & Algorithms
 
-## BEYOND CODE
-- 📜 SheFi Scholar
-- 🔬 love going down research rabbit holes
-- 🤞 Open Source Contributor
-- 😙 A Learner
+## 🌱 BEYOND CODE
+-  SheFi Scholar
+-  love going down research rabbit holes
+-  Open Source Contributor
+-  A Learner
 
 ## SOCIALS 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parnita-s-901a32378/)
 [![University Email](https://img.shields.io/badge/University%20Email-0056A2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parnita091bteceai25@igdtuw.ac.in)
 [![Personal Email](https://img.shields.io/badge/Personal%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhparnita94@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PARNITA-SINGH)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PARNITA-SINGH&show_icons=true&theme=tokyonight)
 
 <div align="center">
   <i>thanks for visiting — The cat welcomes 🐱</i>
