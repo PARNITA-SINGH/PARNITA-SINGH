@@ -6,7 +6,7 @@
     height="200"
   />
 
-  <h1>Bonjour, I'm Parnita 🐾</h1>
+  <h1>Hi, I'm Parnita 🐾</h1>
   <em>second-year undergrad · code explorer · poet in disguise</em>
 </div>
 
