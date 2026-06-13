@@ -42,6 +42,13 @@
 -  Open Source Contributor
 -  A Learner
 
+## 🛠️ PROJECTS
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Stock Market Predictor] | ML-based stock prediction model trained on Google historical data with 75% accuracy | Python, Pandas, Scikit-learn, Matplotlib |
+| [AI Virtual Keyboard]| Real-time gesture-based virtual keyboard using hand landmark detection via webcam | Python, OpenCV, MediaPipe |
+
 ## SOCIALS 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parnita-s-901a32378/)
