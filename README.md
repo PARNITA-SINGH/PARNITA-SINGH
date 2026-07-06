@@ -1,10 +1,4 @@
-<div align="center">
-  <img
-    src="https://github.com/user-attachments/assets/d3b511e5-1bb1-4aa1-8d13-d8f3e5fe33bf"
-    alt="Cat"
-    width="200"
-    height="200"
-  />
+![Header](https://raw.githubusercontent.com/PARNITA-SINGH/PARNITA-SINGH/banner.png)
 
   <h1>Hi, I'm Parnita 🐾</h1>
   <em>second-year undergrad · code explorer · poet in disguise</em>
