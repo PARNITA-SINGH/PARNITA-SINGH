@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/PARNITA-SINGH/PARNITA-SINGH/banner.png)
+![Header](https://raw.githubusercontent.com/PARNITA-SINGH/PARNITA-SINGH/main/banner.png)
 
   <h1>Hi, I'm Parnita 🐾</h1>
   <em>second-year undergrad · code explorer · poet in disguise</em>
