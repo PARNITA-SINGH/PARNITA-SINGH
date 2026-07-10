@@ -1,4 +1,4 @@
-![Header](Untitled design (1).png)
+![Header](banner-new.png)
 
   <h1>Hi, I'm Parnita 🐾</h1>
   <em>second-year undergrad · code explorer · poet in disguise</em>
