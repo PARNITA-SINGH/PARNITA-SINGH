@@ -1,4 +1,4 @@
-![Header](https://i.pinimg.com/736x/e5/08/68/e5086863d06a187bcc7329ada2e53175.jpg)
+![Header](Untitled design (1).png)
 
   <h1>Hi, I'm Parnita 🐾</h1>
   <em>second-year undergrad · code explorer · poet in disguise</em>
