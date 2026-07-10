@@ -51,6 +51,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PARNITA-SINGH)
 
 ## STATS
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PARNITA-SINGH&show_icons=true&theme=tokyonight)
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/PARNITA-SINGH?cardType=github&theme=monokai&fontFamily=ABeeZee&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <div align="center">
