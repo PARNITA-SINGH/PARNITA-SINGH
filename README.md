@@ -1,4 +1,4 @@
-![Header](main/banner-new)
+![Header](banner-new)
 
   <h1>Hi, I'm Parnita 🐾</h1>
   <em>second-year undergrad · code explorer · poet in disguise</em>
