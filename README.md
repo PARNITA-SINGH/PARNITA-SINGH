@@ -1,4 +1,4 @@
-![Header](banner-new.png)
+![Header](<img src="banner-new.png" alt="Header" width="100%">)
 
   <h1>Hi, I'm Parnita 🐾</h1>
   <em>second-year undergrad · code explorer · poet in disguise</em>
